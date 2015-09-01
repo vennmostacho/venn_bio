@@ -8,7 +8,7 @@
 		<img src="https://s-media-cache-ak0.pinimg.com/originals/bb/87/f7/bb87f71bbdd4486fbd1c9bd74d309bc7.jpg" width="600px"> 
 		</header>
 			<h2>Summary</h2>
-				<p><img src="https://s-media-cache-ak0.pinimg.com/originals/7c/28/1c/7c281c6c8c549ceae479edbb9c5225c1.jpg" align="left" style="margin:0px 20px" height="300px">
+				<p><img src="https://s-media-cache-ak0.pinimg.com/originals/7c/28/1c/7c281c6c8c549ceae479edbb9c5225c1.jpg" align="left" style="margin:50px 50px" height="300px">
 				My name is <strong>Venn Mostacho</strong> and I am a freelance graphic designer, problem solver, illustrator and a bit of a nerd. I currently have over a decade of freelance experience. Most of my clients are based in the G.T.A. and was looking for a new brand identity or print colladeral. </p>
 				<p>When I'm not designing, I'm usually on YouTube following my favourite contect creators such as <strong>Philip DeFranco, SourceFed, ScrewAttack and Comicstorian.</strong> When my friends think that I'm acting 'anti-social', they drag me out to watch live wrestling events, dance shows and the occasional kareoke night at O'Graddy's.</p>
 				<p>I signed up with <a href="https://bitmakerlabs.com/">Bitmaker Labs</a> to reboot my UX and front-end web development skills. Though I have studied these topics in detail, I never continued to practice outside of school. As a result, my skill level are as not existent as my 6-pack abs. My challenge for the next 12 weeks is to train, train and train. I will be pushing my limits and learning everything I can to ensure that my skills are on par with current front-end developers (or better).</p>
