@@ -1,7 +1,6 @@
 # venn_bio
 <html>
 <head>
-	<title>Venn Mostacho Website</title>
 </head>
 	<body>
 		<header>
