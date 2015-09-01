@@ -31,5 +31,5 @@
 			<img src="https://s-media-cache-ak0.pinimg.com/originals/cb/98/6b/cb986bb3a05c8467a44aee1166c870fa.gif">
 			<img src="https://s-media-cache-ak0.pinimg.com/originals/b5/89/51/b589512b2be3a2eb304ed6ec05e69643.jpg">
 	</body>
-<footer>Copyright 2015 &copy;, Venn Mostacho</footer>
+<footer><p>Copyright 2015 &copy;, Venn Mostacho</p></footer>
 </html>
