@@ -1,5 +1,7 @@
 # venn_bio
 <html>
+<metta charset="utf-8"  />
+<title> Venn's Pretentious Bio </title>
 <head>
 </head>
 	<body>
